@@ -21,8 +21,8 @@ In this repository you can find my solutions to Hackerrank practice problems wit
         - Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/01.Warmup/009.Birthday%20Cake%20Candles.py) | Score: 10
         - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/01.Warmup/010.Time%20Conversion.py) | Score: 15
     02. Implementation
-        - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution]() | Score: 10
-        - Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution]() | Score: 10
-        - Number Line Jumps(Kangaroo) | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution]() | Score: 10
-        - Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution]() | Score: 10
-        - Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution]() | Score: 10
+        - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/001.Grading%20Students.py) | Score: 10
+        - Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/002.Apple%20and%20Orange.py) | Score: 10
+        - Number Line Jumps(Kangaroo) | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/003.Number%20Line%20Jumps.py) | Score: 10
+        - Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/004.Between%20Two%20Sets.py) | Score: 10
+        - Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/005.Breaking%20the%20Records.py) | Score: 10
