@@ -17,3 +17,12 @@ In this repository you can find my solutions to Hackerrank practice problems wit
         - Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/01.Warmup/005.Diagonal%20Difference.py) | Score: 10
         - Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/01.Warmup/006.Plus%20Minus.py) | Score: 10
         - Staircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/01.Warmup/007.Staircase.py) | Score: 10
+		- Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution]() | Score: 10
+        - Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution]() | Score: 10
+        - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution]() | Score: 15
+    02. Implementation
+        - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution]() | Score: 10
+        - Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution]() | Score: 10
+        - Number Line Jumps(Kangaroo) | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution]() | Score: 10
+        - Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution]() | Score: 10
+        - Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution]() | Score: 10
