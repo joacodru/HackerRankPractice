@@ -26,3 +26,4 @@ In this repository you can find my solutions to Hackerrank practice problems wit
         - Number Line Jumps(Kangaroo) | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/003.Number%20Line%20Jumps.py) | Score: 10
         - Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/004.Between%20Two%20Sets.py) | Score: 10
         - Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/005.Breaking%20the%20Records.py) | Score: 10
+		- Birthday Chocolate | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution]() | Score: 10
