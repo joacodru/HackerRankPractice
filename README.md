@@ -29,3 +29,4 @@ In this repository you can find my solutions to Hackerrank practice problems wit
 		- Birthday Chocolate | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/006.Subarray%20Division.py) | Score: 10
 		- Divisible Sum Pairs | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/007.Divisible%20Sum%20Pairs.py) | Score: 10
 		- Migratory Birds | [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/008.%20Migratory%20Birds.py) | Score: 10
+		- Breaking the Records | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution]() | Score: 15
