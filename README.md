@@ -31,4 +31,4 @@ In this repository you can find my solutions to Hackerrank practice problems wit
 		- Migratory Birds | [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/008.%20Migratory%20Birds.py) | Score: 10
 		- Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/009.Day%20of%20the%20Programmer.py) | Score: 15
 		- Bill Division | [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/010.Bill%20Division.py) | Score: 10
-		- Sales by Match | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution]() | Score: 10
+		- Sales by Match | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/011.Sales%20by%20Match.py) | Score: 10
