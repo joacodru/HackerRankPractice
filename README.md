@@ -32,3 +32,8 @@ In this repository you can find my solutions to Hackerrank practice problems wit
 		- Day of the Programmer | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/009.Day%20of%20the%20Programmer.py) | Score: 15
 		- Bill Division | [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/010.Bill%20Division.py) | Score: 10
 		- Sales by Match | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/011.Sales%20by%20Match.py) | Score: 10
+		- Drawing Book | [Problem](https://www.hackerrank.com/challenges/drawing-book/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/012.Drawing%20Book.py) | Score: 10
+		- Counting Valleys | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/013.Counting%20Valleys.py) | Score: 15
+		- Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/014.Electronics%20Shop.py) | Score: 15
+		- Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/015.Cats%20and%20a%20Mouse.py) | Score: 15
+		
