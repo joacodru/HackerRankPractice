@@ -37,5 +37,5 @@ In this repository you can find my solutions to Hackerrank practice problems wit
 		- Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/014.Electronics%20Shop.py) | Score: 15
 		- Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/015.Cats%20and%20a%20Mouse.py) | Score: 15
 		- Chocolate Feast | [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/016.Chocolate%20Feast.py) | Score: 25
-		- The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution]() | Score: 15
+		- The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/017.The%20Hurdle%20Race.py) | Score: 15
 		
