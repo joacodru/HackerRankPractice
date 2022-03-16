@@ -38,4 +38,4 @@ In this repository you can find my solutions to Hackerrank practice problems wit
 		- Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/015.Cats%20and%20a%20Mouse.py) | Score: 15
 		- Chocolate Feast | [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/016.Chocolate%20Feast.py) | Score: 25
 		- The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/017.The%20Hurdle%20Race.py) | Score: 15
-		
+		- Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/018.Designer%20PDF%20Viewer.py) | Score: 20
