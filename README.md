@@ -40,3 +40,6 @@ In this repository you can find my solutions to Hackerrank practice problems wit
 		- The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/017.The%20Hurdle%20Race.py) | Score: 15
 		- Designer PDF Viewer | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/018.Designer%20PDF%20Viewer.py) | Score: 20
 		- Lisa's Workbook | [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/019.Lisa's%20Workbook.py) | Score: 25
+		- Utopian Tree | [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/020.Utopian%20Tree.py) | Score: 20
+		- Angry Professor | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem) | [Solution](https://github.com/joacodru/HackerRankPractice/blob/main/Algorithms/02.Implementation/021.Angry%20Professor.py) | Score: 20
+		
